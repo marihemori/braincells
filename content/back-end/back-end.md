@@ -1,5 +1,7 @@
 ---
 title: Back-End
-tags: []
+tags:
+  - back-end
+  - intro
 ---
-Just back end
+Back-End is everything that encompasses the parts of: database, the logic of how the information will be saved, the servers and their memory and much more.

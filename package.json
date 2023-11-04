@@ -1,25 +1,25 @@
 {
-  "name": "@marihemori/quartz",
+  "name": "@jackyzha0/quartz",
   "description": "🌱 publish your digital garden and notes as a website",
   "private": true,
-  "version": "4.0.11",
+  "version": "4.1.0",
   "type": "module",
-  "author": "marihemori",
+  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
   "license": "MIT",
-  "homepage": "https://garden-marihemori.vercel.app/",
+  "homepage": "https://quartz.jzhao.xyz",
   "repository": {
     "type": "git",
-    "url": "https://github.com/marihemori/garden.git"
+    "url": "https://github.com/jackyzha0/quartz.git"
   },
   "scripts": {
     "docs": "npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx ./quartz/util/path.test.ts",
-    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
-    "build": "quartz build --serve"
+    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
   },
   "engines": {
+    "npm": ">=9.3.1",
     "node": ">=18.14"
   },
   "keywords": [

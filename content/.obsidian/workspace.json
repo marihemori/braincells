@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "7672526e93c59751",
+    "id": "728b16b038d297d7",
     "type": "split",
     "children": [
       {
-        "id": "fb6b8d48862ebca4",
+        "id": "737a2d45b820fb26",
         "type": "tabs",
         "children": [
           {
-            "id": "5d57fce401416499",
+            "id": "0b99c03cbc822cb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "front-end/nuxtjs/nuxt.md",
+                "file": "pt-br/front-end/javascript/javascript.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "248617852e92ed7e",
+    "id": "d0506744799d6500",
     "type": "split",
     "children": [
       {
-        "id": "3b5c1396b9d085a3",
+        "id": "563a79bc75e09019",
         "type": "tabs",
         "children": [
           {
-            "id": "d11942c5b77a8d0f",
+            "id": "323bc2f0418b348d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "7838dd486d7a69fe",
+            "id": "efdfbeeaaf77f208",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "db6f1c24e14b3643",
+            "id": "8e71acdaa278ea2b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "239184edba909aa2",
+    "id": "6a065c7b55cb4709",
     "type": "split",
     "children": [
       {
-        "id": "6e67dae6592cc311",
+        "id": "8aa5e61849e62662",
         "type": "tabs",
         "children": [
           {
-            "id": "88dc6481523ae512",
+            "id": "9eaee535b45770fd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "front-end/nuxtjs/nuxt.md",
+                "file": "pt-br/front-end/javascript/javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "68e07819fa572ed3",
+            "id": "769b7d433b95a227",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "front-end/nuxtjs/nuxt.md",
+                "file": "pt-br/front-end/javascript/javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3b959fe819ce1592",
+            "id": "9efb58faf7e30ac9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "a531e8698af71fc6",
+            "id": "e059eec4e0ada79c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "front-end/nuxtjs/nuxt.md"
+                "file": "pt-br/front-end/javascript/javascript.md"
               }
             }
           }
@@ -146,26 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d57fce401416499",
+  "active": "0b99c03cbc822cb2",
   "lastOpenFiles": [
-    "git/gitflow.md",
-    "front-end/front-end.md",
-    "front-end/vuejs/vuejs.md",
-    "front-end/javascript/javascript.md",
-    "front-end/html/html.md",
-    "english/words/words.md",
-    "dev-plataforms/net/net.md",
-    "dev-plataforms/dev-plataforms.md",
-    "back-end/c-sharp/c-sharp.md",
-    "back-end/back-end.md",
-    "front-end/nuxtjs/nuxt.md",
-    "ux&ui/ux-ui.md",
-    "front-end/javascript",
-    "index.md",
-    "front-end/html",
-    "english/english.md",
-    "english/words",
-    "english",
-    "dev-plataforms"
+    "pt-br/front-end/vuejs/vuejs.md",
+    "pt-br/front-end/javascript/javascript.md",
+    "pt-br/front-end/front-end.md",
+    "pt-br/front-end/nuxtjs/nuxt.md",
+    "pt-br/front-end/html/html.md"
   ]
 }

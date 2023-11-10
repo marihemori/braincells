@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pt-br/front-end/javascript/javascript.md",
+                "file": "pt-br/front-end/vuejs/vuejs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pt-br/front-end/javascript/javascript.md",
+                "file": "pt-br/front-end/vuejs/vuejs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pt-br/front-end/javascript/javascript.md",
+                "file": "pt-br/front-end/vuejs/vuejs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pt-br/front-end/javascript/javascript.md"
+                "file": "pt-br/front-end/vuejs/vuejs.md"
               }
             }
           }
@@ -148,9 +148,13 @@
   },
   "active": "0b99c03cbc822cb2",
   "lastOpenFiles": [
-    "pt-br/front-end/vuejs/vuejs.md",
-    "pt-br/front-end/javascript/javascript.md",
     "pt-br/front-end/front-end.md",
+    "pt-br/front-end/javascript/objects.md",
+    "pt-br/front-end/javascript/dom.md",
+    "pt-br/front-end/javascript/javascript.md",
+    "en/git/gitflow.md",
+    "pt-br/front-end/vuejs/vuejs.md",
+    "pt-br/front-end/vuejs/Untitled",
     "pt-br/front-end/nuxtjs/nuxt.md",
     "pt-br/front-end/html/html.md"
   ]

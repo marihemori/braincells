@@ -6,11 +6,26 @@ title: Vue.js
 
 Vue.js é um framework JavaScript criado por Evan You que visa construir interfaces de página única (SPAs). Ele usa HTML, CSS e JavaScript (ou TypeScript).
 
+Ele faz uma cópia do nosso código e gera uma estrutura para ele manipular e após a manipulação ele usa para fazer o <b>output</b> final e escrever o nosso template no <b>DOM</b>.
+
 Algumas outras informações sobre a estrutura:
 
 - Quadro progressivo
 - Simplifica a manipulação do DOM
 - Facilita a divisão da interface em componentes, facilitando a manutenção.
+- Pode ser utilizado para criar aplicações MPA e SPA
+
+
+## Instância
+
+Quando se cria uma aplicação Vue.js, você instancia um objeto Vue que representa e controla a interface do usuário e os dados associados a ela.
+Para criar uma instância Vue, é necessário passar um objeto de opções, que pode incluir:
+
+- El (element): Onde a instância Vue será montada no DOM.
+- Data(dados): Os dados que a instância Vue usará para renderizar o template. Esses dados são reativos, o que significa que qualquer mudanã ndeles refletirá automaticamente na interface do usuário.
+- Métodos: Funções que podem ser chamadas e utilizadas dentro da instância Vue para realizar diversas operações.
+- Template(modelo): Define a estrutura do usuário, Pode ser um código HTML puro ou usar a sintaxe de template do Vue.
+- Computed Properties(propriedades computadas): Dados derivados de outros dados. Eles são reativos e se atualizam automaticamente quando as dependências são modificadas.
 
 ## vue-loader
 
